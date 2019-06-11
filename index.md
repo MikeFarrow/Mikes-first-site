@@ -13,10 +13,16 @@ sections:
         url: contact.html
     component: content_block.html
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I am very experienced front end web developer with just under twenty five
+      years building interactive and dynamic web. I am passionate about the web
+      and its potential to change the planet and hopefully save us from the
+      sorry mess we have arrived at.
+
+
+      My core beliefs lie in radical simplicity and inclusivity, I love being
+      outside in nature and believe that England has some of the best
+      countryside and coastline in the world. My other big passion is dancing
+      and I try to practice 12 to 16 hours a week.
     section_id: about
     title: About
     type: contentblock
