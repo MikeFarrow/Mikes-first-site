@@ -3,8 +3,8 @@ title: Home
 sections:
   - component: hero_block.html
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      This is my home page, it tells you a bit about my passions, my work and my
+      life.
     section_id: hero
     title: 'Hi, I''m Mike'
     type: heroblock
