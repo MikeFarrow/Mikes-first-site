@@ -3,8 +3,8 @@ title: Home
 sections:
   - component: hero_block.html
     content: >-
-      This is my home page, it tells you a bit about my passions, my work and my
-      life.
+      This is my home page, it tells you a bit about my passions, my work, my
+      beliefs and my life.
     section_id: hero
     title: 'Hi, I''m Mike'
     type: heroblock
