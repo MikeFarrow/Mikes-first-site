@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: /images/1077562074.jpg
+img_path: /images/meonbeach.jpg
 menus:
   main:
     title: About
@@ -20,8 +20,12 @@ He committed early to web technology and had the privilege of working on some of
 - Helping to shape BUPA's intranet strategy
 - Restructuring the mighty buy.com's checkout process
 
+At the peak of the dotCom bubble Mike was about to sell his banking transaction business to a web agency but the markets crashed and his early retirement to the beach was postponed.
+
+These days Mike focusses more on from end development using frameworks like Angular and his current interest lies in the emerging world of JAMstack. He loves to be on the sharp end of technology and building things.
+
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-Mike loves to keep active and his interests have included running, surfing, walking and dancing.
+Mike loves to keep active and his interests have included running, surfing, drawing, walking and dancing.
 
 *Thank You for reading!*
